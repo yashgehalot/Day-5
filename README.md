@@ -2,4 +2,4 @@
 Final Integration + Submission
 
 
-Expenses Tracker  project you will convert this backend into later
+Expenses Tracker  project I will convert this backend into later
